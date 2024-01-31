@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jade-discharge-time/static/css/main.27c624b3.css",
-    "main.js": "/jade-discharge-time/static/js/main.6bee61f0.js",
+    "main.css": "/jade-discharge-time/static/css/main.87285aed.css",
+    "main.js": "/jade-discharge-time/static/js/main.f6e5e5b3.js",
     "static/js/787.69127909.chunk.js": "/jade-discharge-time/static/js/787.69127909.chunk.js",
     "static/media/roka_jade.png": "/jade-discharge-time/static/media/roka_jade.1402b9765ca008c173a7.png",
     "index.html": "/jade-discharge-time/index.html",
-    "main.27c624b3.css.map": "/jade-discharge-time/static/css/main.27c624b3.css.map",
-    "main.6bee61f0.js.map": "/jade-discharge-time/static/js/main.6bee61f0.js.map",
+    "main.87285aed.css.map": "/jade-discharge-time/static/css/main.87285aed.css.map",
+    "main.f6e5e5b3.js.map": "/jade-discharge-time/static/js/main.f6e5e5b3.js.map",
     "787.69127909.chunk.js.map": "/jade-discharge-time/static/js/787.69127909.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27c624b3.css",
-    "static/js/main.6bee61f0.js"
+    "static/css/main.87285aed.css",
+    "static/js/main.f6e5e5b3.js"
   ]
 }
